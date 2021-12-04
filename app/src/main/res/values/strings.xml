@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">EmerybeansAndroid</string>
+    <string name="app_name">Emerybeans</string>
     <string name="login_button">Login</string>
     <string name="email_editText">Email</string>
     <string name="password_editText">Password</string>
     <string name="please_login_to_use_the_app">Please login to use the app.</string>
+
+    <string name="menu_login">Login</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_upload">Upload</string>
+    <string name="menu_invite">Invite</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_admin">Admin</string>
 </resources>

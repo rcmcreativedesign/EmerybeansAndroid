@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Robbie/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Robbie/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/menu/main_activity_logged_in.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/Robbie/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/menu/main_activity_logged_in_admin.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Robbie/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/menu/main_activity_logged_out.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Robbie/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/menu/menu_logged_in.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/Robbie/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/menu/nav_items.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/rcmcd/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/rcmcd/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/rcmcd/AndroidStudioProjects/EmerybeansAndroid/app/src/main/res/layout/activity_upload.xml" value="0.20520833333333333" />
